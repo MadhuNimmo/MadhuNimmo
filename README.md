@@ -1,4 +1,4 @@
-<h1 align="center">My name is Madhurima</h2>
+<h1 align="center">Hi, :wave: My name is Madhurima</h2>
 <h2 align="center">You can call me Madhu or Nimmo</h2>
 <h3 align="center">I am just another curious soul</h3>
 
