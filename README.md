@@ -1,4 +1,5 @@
-<h1 align="center">My name is Madhurima But you can call me Madhu or Nimmo</h1>
+<h1 align="center">My name is Madhurima</h2>
+<h2 align="center">You can call me Madhu or Nimmo</h2>
 <h3 align="center">I am just another curious soul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhunimmo&label=Profile%20views&color=0e75b6&style=flat" alt="madhunimmo" /> </p>
