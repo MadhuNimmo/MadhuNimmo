@@ -16,3 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=madhunimmo&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" alt="madhunimmo" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" alt="madhunimmo" /></p>
