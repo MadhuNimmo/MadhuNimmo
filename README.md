@@ -1,7 +1,12 @@
 <img align="right" alt="GIF" src="JXA0.gif" />
-<span style="font-family:'Consolas';font-size:65em;white-space: nowrap;">
-  Hi,👋 I am Madhurima. 
-  
+
+<span style="font-family:'Consolas';font-size:65mm;white-space: nowrap;">
+<a href="www.linkedin.com/in/madhurimachakraborty93"><img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/FriendingNimmo"><img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://madhunimmo.github.io/"><img align="left" alt="Website" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a><a href="https://dev.to/madhunimmo"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"/></a> <p> <img src="https://komarev.com/ghpvc/?username=madhunimmo&label=Profile%20views&color=0e75b6&style=flat" alt="madhunimmo"> </p>
+&nbsp;
+ Hi,👋 I am Madhurima. 
  <ul>
     <li>👩‍🎓 I am a PhD student at UC Riverside.</li>
     <li>🤓 I love to learn new things. </li>
@@ -19,7 +24,7 @@
 <br/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhunimmo&label=Profile%20views&color=0e75b6&style=flat" alt="madhunimmo" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhunimmo" alt="madhunimmo" /></a> </p>
 
