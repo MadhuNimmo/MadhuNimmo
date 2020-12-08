@@ -5,6 +5,8 @@
     <li>👩‍🎓 I am a PhD student at UC Riverside.</li>
     <li>🤓 I love to learn new things. </li>
     <li>🍳 I love cooking. </li>
+    <li>🧭 I wish to trvel all around the world </li>
+    <li>🍫 I have obsessive chocolate disorder</li>
     <li>🎅 I believe Santa is real</li>
    </ul>
 </span>
