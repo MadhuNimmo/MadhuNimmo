@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="JXA0.gif" />
-<span style="white-space: nowrap;">
+<span style="white-space: nowrap;font-family:'Consolas';font-size:65em;">
   Hi,👋 I am Madhurima. 
+  
  <ul>
     <li>👩‍🎓 I am a PhD student at UC Riverside.</li>
     <li>🤓 I love to learn new things. </li>
