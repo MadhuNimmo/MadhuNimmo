@@ -1,9 +1,13 @@
 <img align="right" alt="GIF" src="JXA0.gif" />
--
-- :woman_student:I am a PhD student at UC Riverside 
-- :nerd_face:I am a curious soul.
-- :woman_cook:I love cooking.
-- :santa:I believe Santa is real.
+<span style="white-space: nowrap;">
+  Hi,👋 I am Madhurima. 
+ <ul>
+    <li>👩‍🎓 I am a PhD student at UC Riverside.</li>
+    <li>🤓 I love to learn new things. </li>
+    <li>🍳 I love cooking. </li>
+    <li>🎅 I believe Santa is real</li>
+   </ul>
+</span>
 
 <br/>
 <br/>
@@ -23,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=madhunimmo&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" alt="madhunimmo" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" alt="madhunimmo" /></p>
+
+
