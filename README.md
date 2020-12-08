@@ -1,12 +1,12 @@
 <img align="right" alt="GIF" src="JXA0.gif" />
-<span style="white-space: nowrap;font-family:'Consolas';font-size:65em;">
+<span style="font-family:'Consolas';font-size:65em;white-space: nowrap;">
   Hi,👋 I am Madhurima. 
   
  <ul>
     <li>👩‍🎓 I am a PhD student at UC Riverside.</li>
     <li>🤓 I love to learn new things. </li>
     <li>🍳 I love cooking. </li>
-    <li>🧭 I wish to trvel all around the world </li>
+    <li>🧭 I wish to travel all around the world </li>
     <li>🍫 I have obsessive chocolate disorder</li>
     <li>🎅 I believe Santa is real</li>
    </ul>
