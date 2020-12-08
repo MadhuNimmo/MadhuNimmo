@@ -1,6 +1,16 @@
-<h1 align="left">Hi, :wave: My name is Madhurima</h2>
-<h2 align="left">You can call me Madhu or Nimmo</h2>
-<h3 align="left">Just another curious soul</h3>
+<img align="right" alt="GIF" src="JXA0.gif" />
+-
+- :woman_student:I am a PhD student at UC Riverside 
+- :nerd_face:I am a curious soul.
+- :woman_cook:I love cooking.
+- :santa:I believe Santa is real.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhunimmo&label=Profile%20views&color=0e75b6&style=flat" alt="madhunimmo" /> </p>
 
