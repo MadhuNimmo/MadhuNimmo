@@ -3,7 +3,7 @@
 <span style="font-family:'Consolas';font-size:65mm;white-space: nowrap;">
 <a href="www.linkedin.com/in/madhurimachakraborty93"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"</a>
 <a href="https://twitter.com/FriendingNimmo"><img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/color/48/000000/twitter.png"</a>
-<a href="https://madhunimmo.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"</a><a href="https://dev.to/madhunimmo"><img align="left" alt="Dev.to" width="24px" src="https://images.app.goo.gl/7PQHu61HHvPvajK49" alt="madhunimmo"> </p>
+<a href="https://madhunimmo.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"</a><a href="https://dev.to/madhunimmo"><img align="left" alt="Dev.to" width="24px" src="https://www.codemade.io/wp-content/uploads/2020/09/nodegui-react-component-by-component-dev-1600486961gnk48.png" alt="madhunimmo"> </p>
 &nbsp;
  Hi,👋 I am Madhurima. 
  <ul>
