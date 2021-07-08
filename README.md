@@ -36,6 +36,8 @@
 
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='left' width="47%"/><img src = "https://github-readme-stats.vercel.app/api?username=madhunimmo&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='right' width="47%"/>
 
+
+![snake gif](https://github.com/madhunimmo/madhunimmo/blob/output/github-contribution-grid-snake.gif)
 <!--<br/>
 <br/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" align='center' padding="20%">-->
