@@ -42,7 +42,7 @@
 <br/>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" align='center' padding="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" padding="20%">
 </div>
 <!--<table align='right'>
   <tr>
