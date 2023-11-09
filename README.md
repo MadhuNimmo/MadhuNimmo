@@ -18,11 +18,9 @@
    </ul>
 </span>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" padding="20%">
+</div>
 
 
 
@@ -41,9 +39,7 @@
 
 <br/>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" padding="20%">
-</div>
+
 <!--<table align='right'>
   <tr>
     <td>Languages</td>
