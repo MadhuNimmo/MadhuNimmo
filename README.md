@@ -38,10 +38,11 @@
 
 
 
-![snake gif](https://github.com/madhunimmo/madhunimmo/blob/output/github-contribution-grid-snake.gif)
+
 <br/>
 <br/>
 <div align="center">
+  ![snake gif](https://github.com/madhunimmo/madhunimmo/blob/output/github-contribution-grid-snake.gif)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" align='center' padding="40%">
 </div>
 <!--<table align='right'>
