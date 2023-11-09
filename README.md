@@ -41,7 +41,8 @@
 ![snake gif](https://github.com/madhunimmo/madhunimmo/blob/output/github-contribution-grid-snake.gif)
 <br/>
 <br/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" align='left' padding="20%"><table align='right'>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" align='center' padding="40%">
+<!--<table align='right'>
   <tr>
     <td>Languages</td>
     <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></td>
@@ -52,7 +53,7 @@
     <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_48x48.png" alt="R" width="20" height="20" /></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"  width="20" height="20" /></td>
   </tr>
-</table>
+</table>-->
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=madhunimmo&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" alt="madhunimmo" /></p>-->
 
