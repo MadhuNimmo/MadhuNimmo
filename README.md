@@ -78,11 +78,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhunimmo&theme=onedark" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=madhunimmo&show_icons=true&theme=onedark" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhunimmo&layout=compact&theme=onedark" />
 </p>
 
 ---
